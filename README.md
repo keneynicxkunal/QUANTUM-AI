@@ -1,5 +1,5 @@
 # 🚀 QUANTUM - AI-Powered Search Engine
-@bulid by #kunal kumar 
+@bulid by #kunal kumar  
 
 A next-generation search engine powered by cutting-edge AI technology, designed to deliver intelligent results and real-time insights. Experience the future of search with QUANTUM.
 
