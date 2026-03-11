@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🚀 QUANTUM - AI-Powered Search Engine
 #bulid by #kunal kumar choudhary 
 
@@ -178,7 +191,7 @@ Generates AI-powered insights and key points for a search query.
 - **Fully Responsive** - Works on all devices
 - **Accessible** - WCAG AA compliant
 - **Production Ready** - Built for scale
-
+please do not use for 
 ---
 
 Built with ❤️ for the future of search. Welcome to QUANTUM 🚀
